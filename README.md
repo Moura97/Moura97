@@ -1,4 +1,4 @@
-### Hi there, I'm Marcos Moura 97 👋
+### Hi there, I'm Marcos Moura 👋
 
 - 🔭 I’m currently working on Administrative Assistant.
 - 🌱 I’m currently Study: College of Computer science/ Courses: Dev.FullStack - HTML, CSS, JavaScript...
