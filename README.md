@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Front end Developer.
 - 📫 How to reach me: marcosmoura1997@gmail.com
 
-<div align="center">
+<div align="inline_block">
   <a href="https://github.com/Moura97">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Moura97&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moura97&layout=compact&langs_count=7&theme=midnight-purple"/>
