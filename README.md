@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Administrative Assistant.
 - 🌱 I’m currently Study: College of Computer science/ Courses: Dev.FullStack - HTML, CSS, JavaScript...
 - 👯 I’m looking to collaborate on Front end Developer.
-- 📫 How to reach me: marcosmoura1997@gmail.com
+- 📫 How to reach me: marcosluan1997@gmail.com
 
 <div align="inline_block">
   <a href="https://github.com/Moura97">
